@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "448405182938",
+    "firebase_url": "https://algolia-example.firebaseio.com",
+    "project_id": "algolia-example",
+    "storage_bucket": "algolia-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448405182938:android:ef66849b7aa919aa",
+        "android_client_info": {
+          "package_name": "com.example.algoliaserach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448405182938-d5sjrcurhvtt6lc5e40ojq1em945t56k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.algoliaserach",
+            "certificate_hash": "98a1045dc92f9d609d9e328196384f1c6d24532c"
+          }
+        },
+        {
+          "client_id": "448405182938-c9990bf6mt1frlg6ol91ttm2rirnbhlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKWm2xXgWXFWZbHyyGVeexEL82Y3Yel7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448405182938-c9990bf6mt1frlg6ol91ttm2rirnbhlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
